@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/pick-or-rick/static/css/main.159797b1.css",
+    "main.js": "/pick-or-rick/static/js/main.c9dfbb35.js",
+    "static/js/787.22ed4a9f.chunk.js": "/pick-or-rick/static/js/787.22ed4a9f.chunk.js",
+    "static/media/background-desktop.png": "/pick-or-rick/static/media/background-desktop.a784627d0ebc91cfedac.png",
+    "static/media/card.png": "/pick-or-rick/static/media/card.df2c8d645cb3e65080e8.png",
+    "static/media/main-desktop.png": "/pick-or-rick/static/media/main-desktop.0c5ba6ef03fee3b4fe4d.png",
+    "static/media/video.png": "/pick-or-rick/static/media/video.e2e1c851f008838c1305.png",
+    "static/media/pyramid.png": "/pick-or-rick/static/media/pyramid.a8ba23c4d7b1b77f854d.png",
+    "static/media/background-mobile.png": "/pick-or-rick/static/media/background-mobile.3f3cffdcc07e88e5a5c6.png",
+    "static/media/mainDesktop.png": "/pick-or-rick/static/media/mainDesktop.4b4c28068106219763b5.png",
+    "static/media/ufo.png": "/pick-or-rick/static/media/ufo.9907241a782f9d32c1ea.png",
+    "static/media/cucumbers.png": "/pick-or-rick/static/media/cucumbers.4ac8fc7d81af24af2beb.png",
+    "static/media/group_desktop.png": "/pick-or-rick/static/media/group_desktop.baaf9bc57b787087622e.png",
+    "static/media/group.png": "/pick-or-rick/static/media/group.b3ac842bccee97350960.png",
+    "static/media/cucumber_right.png": "/pick-or-rick/static/media/cucumber_right.0b9cc09f84335c753ff5.png",
+    "static/media/cucumber_left.png": "/pick-or-rick/static/media/cucumber_left.ecd64c6148d8280652cf.png",
+    "static/media/logo.png": "/pick-or-rick/static/media/logo.7b02d218e4c2e4779347.png",
+    "static/media/pot1.png": "/pick-or-rick/static/media/pot1.9e7f2f8df39072a42237.png",
+    "static/media/pot0.png": "/pick-or-rick/static/media/pot0.b10be5fc77d4293e3009.png",
+    "static/media/main-mobile.png": "/pick-or-rick/static/media/main-mobile.8b0aacae51bc0555039e.png",
+    "static/media/spot2.png": "/pick-or-rick/static/media/spot2.715ad5042d06f03f4d85.png",
+    "static/media/cucumber_0.png": "/pick-or-rick/static/media/cucumber_0.b72277cd5aac56d9b383.png",
+    "static/media/mainMobile.png": "/pick-or-rick/static/media/mainMobile.a25a8df1be90d7a653a4.png",
+    "static/media/cucumber_1.png": "/pick-or-rick/static/media/cucumber_1.29189ee6718592894794.png",
+    "static/media/icon_1.png": "/pick-or-rick/static/media/icon_1.abf1a8ffc43987c4151f.png",
+    "static/media/icon_3.png": "/pick-or-rick/static/media/icon_3.d58f0d4461301b5857df.png",
+    "static/media/icon_2.png": "/pick-or-rick/static/media/icon_2.1ea3113cee09e5d0a513.png",
+    "static/media/icon_0.png": "/pick-or-rick/static/media/icon_0.c89a5b0073f2aa77e9f6.png",
+    "static/media/icon_4.png": "/pick-or-rick/static/media/icon_4.5203f904173f8814a647.png",
+    "static/media/FreshPickle.ttf": "/pick-or-rick/static/media/FreshPickle.532eea55a4b46beae293.ttf",
+    "static/media/group_mobile.png": "/pick-or-rick/static/media/group_mobile.a3f6d1a19d526ebb1923.png",
+    "index.html": "/pick-or-rick/index.html",
+    "main.159797b1.css.map": "/pick-or-rick/static/css/main.159797b1.css.map",
+    "main.c9dfbb35.js.map": "/pick-or-rick/static/js/main.c9dfbb35.js.map",
+    "787.22ed4a9f.chunk.js.map": "/pick-or-rick/static/js/787.22ed4a9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.159797b1.css",
+    "static/js/main.c9dfbb35.js"
+  ]
+}
