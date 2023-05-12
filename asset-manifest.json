@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pick-or-rick/static/css/main.846ee7c2.css",
-    "main.js": "/pick-or-rick/static/js/main.94a43444.js",
+    "main.css": "/pick-or-rick/static/css/main.ebb92761.css",
+    "main.js": "/pick-or-rick/static/js/main.f2190f90.js",
     "static/js/787.22ed4a9f.chunk.js": "/pick-or-rick/static/js/787.22ed4a9f.chunk.js",
     "static/media/background-desktop.png": "/pick-or-rick/static/media/background-desktop.a784627d0ebc91cfedac.png",
     "static/media/card.png": "/pick-or-rick/static/media/card.df2c8d645cb3e65080e8.png",
@@ -38,12 +38,12 @@
     "static/media/group_mobile.png": "/pick-or-rick/static/media/group_mobile.a3f6d1a19d526ebb1923.png",
     "static/media/cucumber_left_mobile.png": "/pick-or-rick/static/media/cucumber_left_mobile.8c2a6a5b4b0319a81848.png",
     "index.html": "/pick-or-rick/index.html",
-    "main.846ee7c2.css.map": "/pick-or-rick/static/css/main.846ee7c2.css.map",
-    "main.94a43444.js.map": "/pick-or-rick/static/js/main.94a43444.js.map",
+    "main.ebb92761.css.map": "/pick-or-rick/static/css/main.ebb92761.css.map",
+    "main.f2190f90.js.map": "/pick-or-rick/static/js/main.f2190f90.js.map",
     "787.22ed4a9f.chunk.js.map": "/pick-or-rick/static/js/787.22ed4a9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.846ee7c2.css",
-    "static/js/main.94a43444.js"
+    "static/css/main.ebb92761.css",
+    "static/js/main.f2190f90.js"
   ]
 }
