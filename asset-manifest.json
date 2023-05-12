@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pick-or-rick/static/css/main.c16d8bb7.css",
-    "main.js": "/pick-or-rick/static/js/main.60a1b29a.js",
+    "main.css": "/pick-or-rick/static/css/main.846ee7c2.css",
+    "main.js": "/pick-or-rick/static/js/main.57cebf2c.js",
     "static/js/787.22ed4a9f.chunk.js": "/pick-or-rick/static/js/787.22ed4a9f.chunk.js",
     "static/media/background-desktop.png": "/pick-or-rick/static/media/background-desktop.a784627d0ebc91cfedac.png",
     "static/media/card.png": "/pick-or-rick/static/media/card.df2c8d645cb3e65080e8.png",
@@ -36,13 +36,14 @@
     "static/media/icon_4.png": "/pick-or-rick/static/media/icon_4.e9be6ccd4424384f6b67.png",
     "static/media/FreshPickle.ttf": "/pick-or-rick/static/media/FreshPickle.532eea55a4b46beae293.ttf",
     "static/media/group_mobile.png": "/pick-or-rick/static/media/group_mobile.a3f6d1a19d526ebb1923.png",
+    "static/media/cucumber_left_mobile.png": "/pick-or-rick/static/media/cucumber_left_mobile.8c2a6a5b4b0319a81848.png",
     "index.html": "/pick-or-rick/index.html",
-    "main.c16d8bb7.css.map": "/pick-or-rick/static/css/main.c16d8bb7.css.map",
-    "main.60a1b29a.js.map": "/pick-or-rick/static/js/main.60a1b29a.js.map",
+    "main.846ee7c2.css.map": "/pick-or-rick/static/css/main.846ee7c2.css.map",
+    "main.57cebf2c.js.map": "/pick-or-rick/static/js/main.57cebf2c.js.map",
     "787.22ed4a9f.chunk.js.map": "/pick-or-rick/static/js/787.22ed4a9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c16d8bb7.css",
-    "static/js/main.60a1b29a.js"
+    "static/css/main.846ee7c2.css",
+    "static/js/main.57cebf2c.js"
   ]
 }
