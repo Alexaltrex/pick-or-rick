@@ -1,0 +1,122 @@
+@import "../../assets/scss/app";
+
+.first {
+  position: relative;
+  //overflow: hidden;
+  padding-top: 173px;
+
+  @include desktop {
+    padding-top: 598px;
+  }
+
+  .mainMobile {
+    @include onlyMobile(block);
+    width: auto;
+    height: 270px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+  }
+
+  .mainDesktop {
+    @include onlyDesktop(block);
+    width: auto;
+    height: 969px;
+    position: absolute;
+    top: 0;
+    left: calc(50% + 0px);
+    transform: translateX(-50%);
+    z-index: 2;
+  }
+
+  .group {
+    position: absolute;
+    z-index: 1;
+    height: 100%;
+    width: auto;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+
+    @include desktop {
+      width: 1886px;
+      height: auto;
+    }
+  }
+
+
+  .cucumber0, .cucumber1 {
+    position: absolute;
+    top: 0;
+    width: 80px;
+
+    @include desktop {
+      width: 200px;
+    }
+  }
+
+  .cucumber0 {
+    left: 0;
+  }
+
+  .cucumber1 {
+    right: 0;
+  }
+
+  .subtitle {
+    position: relative;
+    z-index: 2;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFF;
+    @include b0-subtitle;
+
+    @include desktop {
+      font-size: 45px;
+      line-height: 56px;
+    }
+  }
+
+  .label {
+    position: relative;
+    z-index: 2;
+    margin-top: 6px;
+    font-size: 50px;
+    line-height: 62px;
+    text-align: center;
+    color: #FFF;
+    @include b0-label;
+
+    @include desktop {
+      margin-top: 47px;
+      font-size: 100px;
+      line-height: 123px;
+    }
+  }
+
+  .text {
+    position: relative;
+    z-index: 2;
+    margin-top: 13px;
+    width: 183px;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    @include b0-text;
+
+    @include desktop {
+      margin-top: 22px;
+      width: auto;
+      font-size: 60px;
+      line-height: 74px;
+    }
+  }
+
+
+}
